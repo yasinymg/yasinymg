@@ -6,7 +6,7 @@ Network Security And Maintainance Admin, Network Engineer, Devops Engineer
 
 🌱 I’m currently learning Ai , Cisco , and DeVops
 
-💬 Ask me about Devops , NodeJS , Linux , Servers
+💬 Ask me about Devops , 
 
 📫 How to reach me ayhassan50@gmail.com
 
